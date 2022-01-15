@@ -9,4 +9,4 @@ javascript:void function(){alert("Ready! Set! Go!"),console.clear();const a=docu
 Copy the code in this above. Open browser bookmark section. Paste this code as a "page" then open WhatsApp. Select the chat who you want to track online. Click and run. It's send you a notification when person who you want to track is online or offline.
 ## Console usage
  Select the chat who you want to track online. Right click and inspect the page. Open "Console" section in devtools. Copy the code in script.js file. Paste and hit enter.
- #### Disclaimer: If this code don't push a notification in your desktop that means you'll need to allow the WWhatsApp Web to send you a notification.
+ #### Disclaimer: If this code don't push a notification in your desktop that means you'll need to allow the WhatsApp Web to send you a notification.
