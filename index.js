@@ -5,7 +5,7 @@
     const observer = new MutationObserver(mutations => {
         const state = mutations[0].target.outerText
         let nState = String
-        let crrntD = new Date().getDay()
+        let crrntD = new Date().getUTCDate()
         let crrntH = new Date().getHours()
         let crrntM = new Date().getMinutes()
         let crrntS = new Date().getSeconds()
